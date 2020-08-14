@@ -1,2 +1,2 @@
 # demo
-my attempt at creating a repo
+my first repo
